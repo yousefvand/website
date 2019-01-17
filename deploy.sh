@@ -3,7 +3,7 @@
 echo `tput setaf 2`Deploying updates to GitHub..`tput sgr0`
 
 # Build the project.
-hugo -t ananke
+hugo
 
 # Go To Public folder
 cd public
