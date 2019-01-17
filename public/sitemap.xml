@@ -3,20 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
     <loc>https://yousefvand.github.io/posts/my-first-post/</loc>
     <lastmod>2019-01-18T01:15:20+03:30</lastmod>
   </url>
   
   <url>
-=======
->>>>>>> 103f3f083d15a74c6d63ac6a8c9ffbcf86bcf9ae
     <loc>https://yousefvand.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://yousefvand.github.io/posts/</loc>
     <lastmod>2019-01-18T01:15:20+03:30</lastmod>
     <priority>0</priority>
@@ -25,9 +21,6 @@
   <url>
     <loc>https://yousefvand.github.io/</loc>
     <lastmod>2019-01-18T01:15:20+03:30</lastmod>
-=======
-    <loc>https://yousefvand.github.io/</loc>
->>>>>>> 103f3f083d15a74c6d63ac6a8c9ffbcf86bcf9ae
     <priority>0</priority>
   </url>
   
