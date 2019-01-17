@@ -6,11 +6,15 @@
     <description>Recent content on Remisa Yousefvand</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 18 Jan 2019 01:15:20 +0330</lastBuildDate>
+=======
+>>>>>>> 103f3f083d15a74c6d63ac6a8c9ffbcf86bcf9ae
     
 	<atom:link href="https://yousefvand.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+<<<<<<< HEAD
     <item>
       <title>My First Post</title>
       <link>https://yousefvand.github.io/posts/my-first-post/</link>
@@ -20,5 +24,7 @@
       <description>Hey Test Page!!!</description>
     </item>
     
+=======
+>>>>>>> 103f3f083d15a74c6d63ac6a8c9ffbcf86bcf9ae
   </channel>
 </rss>
