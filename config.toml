@@ -1,4 +1,43 @@
 baseURL = "https://yousefvand.github.io/"
 languageCode = "en-us"
 title = "Remisa Yousefvand"
-theme = "ananke"
+theme = "dimension"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Software Engineer<!--]--><br /><!--[-->Philosophy Enthusiast<!--]-->'
+  logoimage = "images/logo.png"
+  copyright = "2019 Remisa"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/yousefvand"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/yousefvand"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.nl]
+languageName = "Dutch"
+weight = 2
+title = "Dimension"
+description = '<!--[-->software ontwikkelaar<!--]--><br /><!--[-->Filosofie Enthusiast<!--]-->'
