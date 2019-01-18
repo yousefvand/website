@@ -1,5 +1,5 @@
 +++
-title = "Arbeit"
+title = "Vaardigheden"
 weight = 20
 draft = false
 +++
