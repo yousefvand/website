@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/yousefvand/yousefvand.github.io.git
 	branch = master
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/sethmacleod/dimension.git
